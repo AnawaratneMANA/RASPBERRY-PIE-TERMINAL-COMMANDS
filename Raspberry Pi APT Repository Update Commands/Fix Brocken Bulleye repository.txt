@@ -1,0 +1,5 @@
+https://dev.to/ryderdamen/fixing-broken-mirrors-raspberry-pi-1een
+------- Steps -------
+deb https://raspbian.freemirror.org/raspbian/ buster main contrib non-free rpi
+sudo nano /etc/apt/sources.list
+sudo apt-get update

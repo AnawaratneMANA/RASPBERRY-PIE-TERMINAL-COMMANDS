@@ -1,0 +1,3 @@
+Enable VNC Server. 
+raspi-config
+Interface setting -> VNC, SSH (Enable, Disable).
