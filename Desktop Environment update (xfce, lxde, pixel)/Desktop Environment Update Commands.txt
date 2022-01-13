@@ -1,0 +1,14 @@
+sudo apt-get update
+sudo apt-get dist-upgrade
+sudo apt-get clean
+sudo reboot
+sudo apt-get install --no-install-recommends xserver-xorg
+sudo apt-get install --no-install-recommends xinit
+sudo apt-get install xfce4 xfce4-terminal
+sudo apt-get install lightdm
+
+SSH command
+ssh -Y username@raspberrypiaddress>
+
+XRDP (Remote Desktop Command)
+sudo apt-get install xrdp
