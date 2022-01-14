@@ -1,0 +1,22 @@
+To get a List of Users
+awk -F: '{ print $1}' /etc/passwd
+
+Add user with the Home Directory 
+sudo useradd -m <name>
+
+Add user to the sudoers.
+-
+
+Remove users from the sudoers
+- 
+
+Assign a password for the users
+sudo passwd <name>
+
+Delete users and Delete Home directory.
+sudo userdel -r username
+
+Disconnect the users
+sudo killall -u username
+
+
