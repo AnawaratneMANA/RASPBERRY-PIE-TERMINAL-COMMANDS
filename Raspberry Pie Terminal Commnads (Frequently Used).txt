@@ -7,3 +7,6 @@ watch -n 2 vcgencmd measure_temp
 Free Memory Cheking
 free -m
 
+Shut down command 
+sudo shutdown -h now -> halt the system service, manually power off the system.
+sudo shutdown -h now -r -> halt the system services and restart the system.
