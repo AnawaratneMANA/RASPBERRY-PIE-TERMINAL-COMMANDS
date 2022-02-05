@@ -1,0 +1,9 @@
+// Preparing
+sudo apt update
+
+// Installing
+sudo apt install code
+
+// For Updates 
+sudo apt update
+sudo apt upgrade code

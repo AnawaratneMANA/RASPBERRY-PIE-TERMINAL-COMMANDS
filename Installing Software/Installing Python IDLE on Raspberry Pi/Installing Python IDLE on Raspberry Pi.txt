@@ -1,0 +1,5 @@
+// Install Python - By Default this is already there in some Linux distributions
+sudo apt-get install python3
+
+// Install the IDLE GUI editor for the python.
+sudo apt-get install idle3
