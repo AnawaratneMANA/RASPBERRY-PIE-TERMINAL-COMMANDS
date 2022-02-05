@@ -1,0 +1,12 @@
+// Preparing the device and update repositories.
+sudo apt-get update
+sudo apt-get upgrade
+
+// Installing the remote desktop drivers
+sudo apt-get install xrdp
+
+// Get the local IP address of the raspberry pi device.
+hostname -I OR use the router dashboard to see connected devices.
+
+// Connect using Remote Desktop Client in Windows machines.
+Put the <ip-address> click on connect.
