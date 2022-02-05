@@ -1,0 +1,2 @@
+// Navigate here and clear out all the lines related to old device and save the file, try again.
+C:\Users\Nirmith Akash\.ssh

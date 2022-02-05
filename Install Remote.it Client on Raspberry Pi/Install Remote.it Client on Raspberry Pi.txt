@@ -1,0 +1,11 @@
+// Preparing the device
+sudo apt-get update
+sudo apt-get upgrade
+
+//Installing the Remote.it client
+sudo apt install remoteit
+
+//Setting up the remote server.
+1 -> Go to the IP address 
+2 -> Register the device, if already registered then log into the device.
+3 -> Add the type of connection we need, share the connection profile with the users.
