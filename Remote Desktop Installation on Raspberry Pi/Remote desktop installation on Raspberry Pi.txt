@@ -10,3 +10,8 @@ hostname -I OR use the router dashboard to see connected devices.
 
 // Connect using Remote Desktop Client in Windows machines.
 Put the <ip-address> click on connect.
+
+Install XRDP on already installed raspbian x64 OS [working].
+https://linuxize.com/post/how-to-install-xrdp-on-raspberry-pi/
+
+Make sure to create a new users when logging with XRDP. Root user can't use the XRDP login for some reason.

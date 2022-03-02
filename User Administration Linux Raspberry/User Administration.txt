@@ -5,7 +5,7 @@ Add user with the Home Directory
 sudo useradd -m <name>
 
 Add user to the sudoers.
--
+sudo usermod -aG sudo newuser
 
 Remove users from the sudoers
 - 
