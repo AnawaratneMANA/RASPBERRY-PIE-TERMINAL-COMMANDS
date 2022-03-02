@@ -20,3 +20,10 @@ Disconnect the users
 sudo killall -u username
 
 
+-- NOTE --
+When add the users to sudoers do following.
+pkill -KILL -u {username}
+
+(Either log out the user or kill the user process).
+
+
